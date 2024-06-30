@@ -26,7 +26,8 @@ export const MOCK_TODOS = [
   {
     userId: 1,
     id: '5',
-    title: 'програмувати на JavaScript'
+    title: 'програмувати на JavaScript',
+    completed: false
   },
   {
     userId: 1,
